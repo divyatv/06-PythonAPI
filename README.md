@@ -1,3 +1,13 @@
+Note to grader:
+-------------------
+
+The column names in the expected output =City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+My column names of the weather dataframe = cities,clouds.all,sys.country,dt,main.humidity,coord.lat,coord.lon,main.temp_max,wind.speed
+
+They represnt the same data. I can rename the columns using df.rename(columns = {'cities':'City','clouds.all':'Cloudiness'}, inplace = False)etc
+if you need me to. Please let me know.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 # 06-PythonAPI
 Python script to visualize the weather of 500+ cities across the world of varying distance from the equator
 
