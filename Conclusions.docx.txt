@@ -1,0 +1,29 @@
+########################################################
+## Divya TV July 2 2019 ################################
+Objective is to show the effects of weather as one goes closer to the equator.
+My objective is to build a series of scatter plots to showcase the following relationships:
+
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
+
+As final considerations:
+
+* You must complete your analysis using a Jupyter notebook -- done
+* You must use the Matplotlib or Pandas plotting libraries -- done
+* You must include a written description of three observable trends based on the data - done- see below.
+* You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.-- Done
+
+
+Conclusion1:
+The humidity near the equator is always above 60% 
+
+Conclusion 2: 
+
+Temperatures are usually higher near the equator. More than 20F on July 2 2019.
+
+
+Conclusion 3:
+
+
